@@ -11,7 +11,8 @@ const Footer = () => {
             <div className='flex items-center'>
                 Built by Prakhar
             </div>
-            <Link href="https://www.linkedin.com/in/prakhar-gupta-7a1727205/" target="_blank" className='underline underline-offset-2'>Let's Connect</Link>
+            <Link href="https://www.linkedin.com/in/prakhar-gupta-7a1727205/" target="_blank" className="underline underline-offset-2">Let&apos;s Connect</Link>
+
         </Layout>
 
       </footer>
