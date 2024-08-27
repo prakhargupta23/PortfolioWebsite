@@ -5,7 +5,6 @@ import Head from 'next/head'
 import { GithubIcon } from '@/components/Icons'
 import Link from 'next/link'
 import Image from 'next/image'
-import project1 from "../../public/images/projects/crypto-screener-cover-image.jpg"
 import p3 from "../../public/images/projects/p-3.png"
 import p2 from "../../public/images/projects/p-2.png"
 import { motion } from 'framer-motion';

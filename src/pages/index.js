@@ -1,15 +1,11 @@
 import Layout from '@/components/Layout';
 import Head from 'next/head';
-import Image from 'next/image';
-import profilePic from "../../public/images/profile/developer-pic-1.png";
 import AnimatedText from '@/components/AnimatedText';
 import Link from 'next/link';
 import { LinkArrow } from '@/components/Icons';
-import HireMe from '@/components/HireMe';
 import { Canvas } from '@react-three/fiber';
 import { Suspense } from 'react';
 import { OrbitControls } from '@react-three/drei';
-import Crystal from '../../public/Crystal';
 import Tree  from '../../public/Tree'
 import { Environment, PerspectiveCamera } from '@react-three/drei';
 
