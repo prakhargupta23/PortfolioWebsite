@@ -80,7 +80,7 @@ const about = () => {
                 
                 <div className='flex flex-col items-end justify-center'>
                     <span className='inline-block text-7xl font-bold'>
-                    <AnimatedNumbers value={1}/>+
+                    <AnimatedNumbers value={0}/>
                     </span>
                     <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light'>Years of Experience</h2>
                     
